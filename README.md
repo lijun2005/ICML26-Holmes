@@ -25,6 +25,7 @@ This repository contain the  implementation of our work at **ICML 2026**:
 > [**Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval**](https://arxiv.org/abs/2605.06083) Jun Li, Peifeng Lai, Xuhang Lou, [Jinpeng Wang](https://github.com/gimpong), Yuting Wang, Ke Chen, Yaowei Wang, Shu-Tao Xia.
 
 ![overview](figures/holmes.png)
+
 We propose **Holmes**, a hierarchical evidential learning framework that aggregates multi-granular cross-modal evidence to quantify and model uncertainty explicitly:
 (i) At the inter-video level, similarity scores are interpreted as evidential support and modeled via a Dirichlet distribution. Based on the proposed three-fold principle, we perform fine-grained query identification, which then guides query-adaptive calibrated learning.
 (ii) At the intra-video level, to accumulate denser evidence, we formulate a soft query-clip alignment via flexible optimal transport with an adaptive dustbin, which alleviates sparse temporal supervision while suppressing spurious local responses.
