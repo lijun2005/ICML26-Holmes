@@ -110,6 +110,17 @@ For this repository, the expected performance is:
 
 ## 4. References
 If you find our code useful or use the toolkit in your work, please consider citing:
+```
+@misc{li2026_holmes,
+      title={Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval}, 
+      author={Jun Li and Peifeng Lai and Xuhang Lou and Jinpeng Wang and Yuting Wang and Ke Chen and Yaowei Wang and Shu-Tao Xia},
+      year={2026},
+      eprint={2605.06083},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.06083}, 
+}
+```
 
 ## 5. Acknowledgements
 This code is based on  [HLFormer](https://github.com/lijun2005/ICCV25-HLFormer) and [DreamPRVR](https://github.com/lijun2005/CVPR26-DreamPRVR).
