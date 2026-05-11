@@ -1,5 +1,5 @@
 # Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval
-
+[![arXiv](https://img.shields.io/badge/arXiv-2605.06083-b31b1b.svg?style=flat)](https://arxiv.org/abs/2605.06083)
 
 **:star: If **Holmes** is helpful to your  projects, please help star this repo. Thanks! :hugs:**
 
