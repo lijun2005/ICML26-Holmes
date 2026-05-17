@@ -1,6 +1,6 @@
 # Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval
 [![arXiv](https://img.shields.io/badge/arXiv-2605.06083-b31b1b.svg?style=flat)](https://arxiv.org/abs/2605.06083)
-
+[![52CV](https://img.shields.io/badge/52CV-中文解读-pink.svg?style=flat)](https://mp.weixin.qq.com/s/ZVKLMkY4CEuPaIiHmx22uw) 
 **:star: If **Holmes** is helpful to your  projects, please help star this repo. Thanks! :hugs:**
 
 **We sincerely invite readers to refer to our previous works: [ICCV25-HLFormer](https://github.com/lijun2005/ICCV25-HLFormer) and [CVPR26-DreamPRVR](https://github.com/lijun2005/CVPR26-DreamPRVR), as well as our curated [Awesome-PRVR](https://github.com/lijun2005/Awesome-Partially-Relevant-Video-Retrieval).**
