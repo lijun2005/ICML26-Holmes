@@ -111,12 +111,10 @@ For this repository, the expected performance is:
 ## 4. References
 If you find our code useful or use the toolkit in your work, please consider citing:
 ```
-@inproceedings{
-li2026holmes,
-title={Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval},
-author={Jun Li and Peifeng Lai and Xuhang Lou and Jinpeng Wang and Yuting Wang and Ke Chen and Yaowei Wang and Shu-Tao Xia},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
+@inproceedings{holmes,
+  title={Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval},
+  author={Li, Jun and Lai, Peifeng and Lou, Xuhang and Wang, Jinpeng and Wang, Yuting and Chen, Ke and Wang, Yaowei and Xia, Shu-Tao},
+  booktitle={Forty-third International Conference on Machine Learning}
 }
 ```
 
